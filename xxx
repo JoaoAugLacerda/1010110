@@ -1,0 +1,32 @@
+struct obj = {
+
+public char[] tt1 = new char[50];
+public int[] tt2;
+public float[] tt3;
+
+
+}
+
+obj tt222;
+
+tt222.tt2 = 10;
+
+static string teste{
+
+int teste,teste1,teste2;
+int xxx = 3;
+
+console.writeline("tt1tt2tt3");
+xxx = int.Parse(console.readline());
+
+for(i=0;i>xxx;i++){
+
+
+
+}
+
+
+
+
+
+}
